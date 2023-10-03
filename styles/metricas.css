@@ -1,0 +1,22 @@
+.metricas{
+    display: flex;
+    padding: 0 7rem;
+    gap: 6rem;
+    align-items: center;
+}
+
+.metricas-titulo{
+    color: var(--vermelho-terciario);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.metricas-termo{
+    color: var(--preto-secundario);
+    font-size: 18px;
+    margin: 1rem 0;
+}
+
+.metricas-paragrafo{
+    font-weight: 400;
+}

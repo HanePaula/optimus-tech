@@ -1,0 +1,25 @@
+.vagas{
+    padding-left: 21rem;
+}
+
+.vagas-titulo{
+    font-size: 20px;
+    color: var(--preto-secundario);
+}
+
+.vagas-vaga{
+    margin: 3.5rem 0 4.75rem 1.5rem;
+}
+
+.vaga-titulo{
+    font-size: 18px;
+    color: var(--preto-secundario);
+    font-family: var(--fonte-principal);
+    text-decoration: none;
+}
+
+.vaga-informacoes{
+    margin-top: 2rem;
+    display: flex;
+    gap: 1.5rem;
+}

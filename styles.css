@@ -1,0 +1,16 @@
+@import url(./styles/header.css);
+@import url(./styles/introducao.css);
+@import url(./styles/metricas.css);
+@import url(./styles/contratando.css);
+@import url(./styles/vagas.css);
+@import url(./styles/depoimentos.css);
+@import url(./styles/rodape.css);
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+:root {
+    --fonte-principal: "Inter";
+    --cinza-principal: #667085;
+    --preto-secundario: #101828;
+    --vermelho-terciario: #8E2424;
+}
+

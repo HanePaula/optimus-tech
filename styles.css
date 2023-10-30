@@ -12,5 +12,7 @@
     --cinza-principal: #667085;
     --preto-secundario: #101828;
     --vermelho-terciario: #8E2424;
+    --cor-icone: #868E96;
+    --sombra-do-menu: 0 5px 30px rgba(27, 31, 35, 0.1), 0 0 1px rgba(27, 31, 35, 0.4), 0 1px 2px rgba(27, 31, 35, 0.15);
 }
 

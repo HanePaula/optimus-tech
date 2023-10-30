@@ -21,5 +21,23 @@
     padding: 0 23rem;
 }
 
+@media screen and (max-width: 768px) {
+    .introducao {
+        padding: 2rem 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .introducao-titulo {
+        font-size: 40px;
+    }
+
+    .introducao-paragrafo {
+        font-size: 16px;
+        padding: 0 2rem;
+    }
+}
+
 
 

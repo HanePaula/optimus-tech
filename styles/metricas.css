@@ -20,3 +20,11 @@
 .metricas-paragrafo{
     font-weight: 400;
 }
+
+@media screen and (max-width: 768px) {
+    .metricas {
+        flex-direction: column;
+        justify-content: center;
+        gap: 6rem;
+    }
+}

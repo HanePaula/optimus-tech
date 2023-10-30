@@ -25,3 +25,14 @@
     font-size: 14px;
     font-weight: 400;
 }
+
+@media screen and (max-width: 768px) {
+    .depoimentos {
+        padding: 0 0 3rem 0;
+    }
+
+    .depoimentos-titulo {
+        font-size: 22px;
+        padding: 0;
+    }
+}

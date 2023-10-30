@@ -30,3 +30,23 @@
 .contratando-imagem{
     margin-bottom: 4rem;
 }
+
+@media screen and (max-width: 768px) {
+    .contratando {
+        padding-top: 1rem;
+    }
+
+    .contratando-titulo {
+        margin: 1.25rem 0;
+        font-size: 36px;
+        width: 50vw;
+    }
+
+    .contratando-texto {
+        width: 50vw;
+    }
+
+    .contratando-imagem {
+        width: 100vw;
+    }
+}

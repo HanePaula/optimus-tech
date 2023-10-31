@@ -5,10 +5,6 @@ const overlay = document.getElementById('overlay');
 const body = document.querySelector('body');
 const main = document.querySelector('main');
 
-document.addEventListener('gesturestart', function (e) {
-    e.preventDefault();
-});
-
 botao.addEventListener('click', () => {
     botao.classList.toggle('open');
     setTimeout(() => {
